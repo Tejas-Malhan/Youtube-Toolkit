@@ -39,7 +39,7 @@ python main.py
 ```
 
 ## 🧩 How to Use Cookies (Age-Restricted/Private Videos)
-1. Install [Get cookies.txt]([https://bit.ly/get-cookies-txt](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)) Chrome extension.
+1. Install [Get cookies.txt](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)Chrome extension.
 2. Login to YouTube in Chrome.
 3. Export cookies → Save as `youtube_cookies.txt`.
 4. Upload inside the app settings.
