@@ -52,7 +52,7 @@ python main.py
 | ![home](assets/home.png) | ![playlist](assets/play.png) |
 
 ## 🤝 Contributing
-Pull requests welcome! Please format with `black`, use `snake_case`, and test before submitting.
+Pull requests welcome! Please test before submitting.
 
 ## 📦 License
 
