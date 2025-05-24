@@ -60,4 +60,4 @@ MIT License © 2025 [Tejas Malhan]
 
 ---
 
-🔥 Made with love by **{TM}**
+🔥 Made with love by **TM**
