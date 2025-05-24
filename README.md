@@ -26,7 +26,7 @@ A modern, offline desktop application to download YouTube videos, playlists, aud
 ## 📁 Installation
 
 ### ✅ Option 1: Installer (Recommended)
-1. Go to the [Releases](https://github.com/yourusername/youtube-toolkit/releases) page.
+1. Go to the [Releases](https://github.com/Tejas-Malhan/Youtube-Toolkit/releases) page.
 2. Download `YouTubeToolkitInstaller.exe` and run it.
 3. Accept the prompts — app installs to `C:\Program Files\YouTubeToolkit`
 
@@ -56,8 +56,8 @@ Pull requests welcome! Please format with `black`, use `snake_case`, and test be
 
 ## 📦 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Tejas Malhan]
 
 ---
 
-🔥 Made with love and yt-dlp by a developer who never skips the skip ads.
+🔥 Made with love by **{TM}**
